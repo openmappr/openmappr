@@ -1,3 +1,7 @@
+# Readme (v2) by Yale
+
+![Docker build and push](https://github.com/selfhostedofficial/openmappr/workflows/Docker%20build%20and%20push/badge.svg)
+
 # openMappr - a network analysis and visualization platform
 
 *openMappr* allows you to visualize and interactively explore relationship data as a network. You save multiple layouts and views as 'snapshots' and publish/share them with others as a 'player' (an interactive, read-only version of map).
